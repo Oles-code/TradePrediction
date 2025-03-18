@@ -1,0 +1,133 @@
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest.csproj.AssemblyReference.cache
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest_MarkupCompile.cache
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest_MarkupCompile.lref
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\obj\Debug\net6.0-windows\Interop.MLApp.dll
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest.csproj.ResolveComReference.cache
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\bin\Debug\net6.0-windows\MATLABintegrationTest.exe
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\bin\Debug\net6.0-windows\MATLABintegrationTest.deps.json
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\bin\Debug\net6.0-windows\MATLABintegrationTest.runtimeconfig.json
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\bin\Debug\net6.0-windows\MATLABintegrationTest.dll
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\bin\Debug\net6.0-windows\MATLABintegrationTest.pdb
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest.g.resources
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest.AssemblyInfoInputs.cache
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest.AssemblyInfo.cs
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest.csproj.CoreCompileInputs.cache
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest.dll
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\obj\Debug\net6.0-windows\refint\MATLABintegrationTest.dll
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest.pdb
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest.genruntimeconfig.cache
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\obj\Debug\net6.0-windows\ref\MATLABintegrationTest.dll
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\olesc\source\repos\MATLABintegrationTest\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest.csproj.CopyComplete
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\MATLABintegrationTest.exe
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\MATLABintegrationTest.deps.json
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\MATLABintegrationTest.runtimeconfig.json
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\MATLABintegrationTest.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\MATLABintegrationTest.pdb
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest.csproj.AssemblyReference.cache
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\obj\Debug\net6.0-windows\Interop.MLApp.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest.csproj.ResolveComReference.cache
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest_MarkupCompile.cache
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest_MarkupCompile.lref
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest.g.resources
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest.AssemblyInfoInputs.cache
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest.AssemblyInfo.cs
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest.csproj.CoreCompileInputs.cache
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest.csproj.CopyComplete
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\obj\Debug\net6.0-windows\refint\MATLABintegrationTest.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest.pdb
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\obj\Debug\net6.0-windows\MATLABintegrationTest.genruntimeconfig.cache
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\obj\Debug\net6.0-windows\ref\MATLABintegrationTest.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\bin\Debug\net6.0-windows\MATLABintegrationTest.exe
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\bin\Debug\net6.0-windows\MATLABintegrationTest.deps.json
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\bin\Debug\net6.0-windows\MATLABintegrationTest.runtimeconfig.json
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\bin\Debug\net6.0-windows\MATLABintegrationTest.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\bin\Debug\net6.0-windows\MATLABintegrationTest.pdb
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\bin\Debug\net6.0-windows\Microsoft.Win32.SystemEvents.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\bin\Debug\net6.0-windows\System.Drawing.Common.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\obj\Debug\net6.0-windows\MATLABintegrationTest.csproj.AssemblyReference.cache
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\obj\Debug\net6.0-windows\Interop.MLApp.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\obj\Debug\net6.0-windows\MATLABintegrationTest.csproj.ResolveComReference.cache
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\obj\Debug\net6.0-windows\MATLABintegrationTest_MarkupCompile.cache
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\obj\Debug\net6.0-windows\MATLABintegrationTest_MarkupCompile.lref
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\obj\Debug\net6.0-windows\MATLABintegrationTest.g.resources
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\obj\Debug\net6.0-windows\MATLABintegrationTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\obj\Debug\net6.0-windows\MATLABintegrationTest.AssemblyInfoInputs.cache
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\obj\Debug\net6.0-windows\MATLABintegrationTest.AssemblyInfo.cs
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\obj\Debug\net6.0-windows\MATLABintegrationTest.csproj.CoreCompileInputs.cache
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\obj\Debug\net6.0-windows\MATLABintegrationTest.csproj.CopyComplete
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\obj\Debug\net6.0-windows\MATLABintegrationTest.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\obj\Debug\net6.0-windows\refint\MATLABintegrationTest.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\obj\Debug\net6.0-windows\MATLABintegrationTest.pdb
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\obj\Debug\net6.0-windows\MATLABintegrationTest.genruntimeconfig.cache
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\AlevelNEA\obj\Debug\net6.0-windows\ref\MATLABintegrationTest.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\EntityFramework.SqlServer.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\EntityFramework.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\System.Data.SQLite.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\System.Data.SQLite.EF6.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\runtimes\linux-x64\native\SQLite.Interop.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\runtimes\osx-x64\native\SQLite.Interop.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\runtimes\win-x64\native\SQLite.Interop.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\runtimes\win-x86\native\SQLite.Interop.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\DotNetProjects.DataVisualization.Toolkit.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\ScottPlot.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\ScottPlot.WPF.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\WinForms.DataVisualization.Utilities.dll
+C:\Users\olesc\source\repos\AlevelNEA 2023-24\MATLABintegrationTest\bin\Debug\net6.0-windows\WinForms.DataVisualization.dll
